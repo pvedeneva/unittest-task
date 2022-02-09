@@ -1,2 +1,3 @@
 # test_automation
-test automation tesks
+test automation tasks
+- unit tests for custom class with pytest
